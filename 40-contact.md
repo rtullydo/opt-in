@@ -12,7 +12,7 @@ permalink: "contact.html"
 
 ## Contact Information
 
-Changes and additions to the directory can be made by filling out the [directory information form][1].
+Changes and additions to the directory can be made by filling out the [directory information form][7].
 
 The site maintainers can be reached at <operatortheory.info@gmail.com>. Questions, comments, suggestions, and additional calendar events are welcome.
 
@@ -28,3 +28,4 @@ This website was created by [Ryan Tully-Doyle][4], [Kelly Bickel][5], and [J. E.
 [4]:<https://ryantullydoyle.com>
 [5]:<https://www.bucknell.edu/fac-staff/kelly-bickel>
 [6]:<https://people.clas.ufl.edu/pascoej/2tart-otwia/>
+[7]:<https://forms.gle/9hDvMKW9HBs1GEM78>
