@@ -36,6 +36,6 @@ permalink: "curriculum.html"
 
 - Learn some mathematical programming - many hypotheses in functional operator theory can be tested on examples
 
-[1]:<http://math.newhaven.edu/rtullydo/hilbert/hilbert.html>
+[1]:<http://rtullydo.github.io//hilbert/hilbert.html>
 [2]:<https://www.math.brown.edu/~treil/papers/LADW/LADW.html>
 [3]:<http://math.sfsu.edu/beck/complex.html>
