@@ -6,7 +6,7 @@ permalink: "index.html"
 
 
 
-
+![2tart](assets/images/2tart-crop.png)
 
   {% for post in site.posts %}
   <article>
