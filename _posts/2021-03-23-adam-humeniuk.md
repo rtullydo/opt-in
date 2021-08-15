@@ -9,7 +9,7 @@ Adam Humeniuk, University of Waterloo
 
 ## Title:
 
-Jensen’s Inequality for separately convex noncommutative functions
+Jensen's Inequality for separately convex noncommutative functions
 
 ## Abstract:
 
