@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "2TART"
-permalink: "index.html"
+permalink: "2tart.html"
 ---
 
 
