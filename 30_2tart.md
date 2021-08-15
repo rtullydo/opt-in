@@ -8,7 +8,7 @@ permalink: "index.html"
 
 ![2tart](assets/images/2tart-crop.png)
 
-Welcome to **The Online Operator Theory and Related Topics** webpage. This project intends to provide accessible colloqium-level operator theory talks on a monthly basis, with occasional additional talks. This project is co-ordinated by J. E. Pascoe. If you want to be added to the mailing list, please email the organizers.
+Welcome to **The Online Operator Theory and Related Topics** webpage. This project intends to provide accessible colloqium-level operator theory talks on a monthly basis (currently the first Tuesday of each month), with occasional additional talks. This project is co-ordinated by J. E. Pascoe. If you want to be added to the mailing list, please email the organizers.
 
   {% for post in site.posts %}
   <article>
