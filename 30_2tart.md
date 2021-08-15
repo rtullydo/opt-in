@@ -11,7 +11,7 @@ permalink: "index.html"
   {% for post in site.posts %}
   <article>
     <h2>
-      <a href="/{{ post.url }}">
+      <a href="/optin/{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
