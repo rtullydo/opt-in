@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2TART - Adam Humeniuk
+title: "2TART - Adam Humeniuk"
 ---
 
 ## Speaker:
