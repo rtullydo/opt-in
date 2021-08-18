@@ -3,7 +3,8 @@ layout: post
 title: "2TART - Evangelos Nikitopoulos"
 ---
 
-### Speaker: Evangelos "Vaki" Nikitopoulos
+### Speaker: 
+Evangelos "Vaki" Nikitopoulos
 
 ### Title: 
 Noncommutative $$C^k$$ Functions, Multiple Operator Integrals, and Derivatives of Operator Functions

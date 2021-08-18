@@ -20,7 +20,7 @@ The site maintainers can be reached at <rtullydo@gmail.com>. Questions, comments
 
 ## Credit
 
-This website was created by [Ryan Tully-Doyle][4], [Kelly Bickel][5], and [J. E. Pascoe][3]. The original idea was inspired by the "Widening the Pipeline" conversation at [2TART Presents: OTWIA][6] online conference. The Directory was inspired by the impressive and comprehensive [Operator Algebra Searchable Information Site][1]. The idea for the Curriculum was inspired by Brett Wick's [Internet Analysis Seminar][2]. 
+This website was created by and is currently maintained by [Ryan Tully-Doyle][4], [Kelly Bickel][5], and [J. E. Pascoe][3]. The original idea was inspired by the "Widening the Pipeline" conversation at [2TART Presents: OTWIA][6] online conference. The Directory was inspired by the impressive and comprehensive [Operator Algebra Searchable Information Site][1]. The idea for the Curriculum was inspired by Brett Wick's [Internet Analysis Seminar][2]. 
 
 [1]:<https://operatoralgebras.org>
 [2]:<http://internetanalysisseminar.gatech.edu/about.html>
