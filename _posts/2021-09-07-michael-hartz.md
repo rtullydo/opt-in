@@ -5,13 +5,13 @@ title: "2TART - Michael Hartz"
 
 11AM Eastern Time (US)
 
-#### Speaker:
+### Speaker:
 Michael Hartz, Saarland University 
 
-#### Title
+### Title
 Common range of co-analytic Toeplitz operators in the Drury--Arveson space
 
-#### Abstract
+### Abstract
 A theorem of McCarthy describes the space of all functions in the Hardy
 space on the unit disc belonging to the range of every co-analytic
 Toeplitz operator. This space is intimately related to the classical
