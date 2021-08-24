@@ -3,7 +3,7 @@ layout: post
 title: "2TART - Michael Hartz"
 ---
 
-
+11AM Eastern Time (US)
 
 #### Speaker:
 Michael Hartz, Saarland University 
