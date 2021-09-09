@@ -15,12 +15,12 @@ permalink: "opthwiki.html"
 
 - International Workshop on Operator Theory and Applications (IWOTA)
 	- 2022 Krakow, Poland TBA
-	- 2021 Chapman University [1]
-	- 2020 Lancaster University [2]
+	- 2021 [Chapman University][1]
+	- 2020 ancaster University][2]
 
-- Southeastern Analysis Meeting (SEAM) [4]
+- [Southeastern Analysis Meeting (SEAM)][4]
 	- 2022 University of Florida 
-	- 2021 Zoom [3]
+	- 2021 [Zoom][3]
 
 
 
