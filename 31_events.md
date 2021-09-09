@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Wikipedia Project"
-permalink: "opthwiki.html"
+title: "Events"
+permalink: "events.html"
 ---
 
 
@@ -21,6 +21,8 @@ permalink: "opthwiki.html"
 - [Southeastern Analysis Meeting (SEAM)][4]
 	- 2022 University of Florida 
 	- 2021 [Zoom][3]
+
+- G
 
 
 
