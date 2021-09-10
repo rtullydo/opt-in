@@ -9,7 +9,7 @@ permalink: "events.html"
 
 ## Operator Theory Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=81jnqfv3o0bbagsf86lp2bna54%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=dGthdmQ5cDRyNnNxanJrMWk2b3Flb2x0NDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=ODFqbnFmdjNvMGJiYWdzZjg2bHAyYm5hNTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%237986CB&color=%238E24AA&title=Operatory%20Theory%20Events" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Operator Theory Events
 
@@ -34,8 +34,10 @@ permalink: "events.html"
 	- Ongoing talks, currently the first Tuesday of each month at 11AM Eastern (US)
 
 - Fields Institute
- - Focus Program on Analytic Function Spaces and their Applications[6]
+ 	- [Focus Program on Analytic Function Spaces and their Applications][6]
 
+- [Operator Theory Talks for Early Researchers (OTTER)][7]
+	-
 
 
 
@@ -44,4 +46,5 @@ permalink: "events.html"
 [3]:<https://people.clas.ufl.edu/pascoej/seam-2021>
 [4]:<http://www.math.utk.edu/~richter/seam/>
 [5]:<https://www.math.wustl.edu/~ylsong/GPOTS.php>
-[6]:http://www.fields.utoronto.ca/activities/21-22/function	
+[6]:<http://www.fields.utoronto.ca/activities/21-22/function>	
+[7]:<https://sites.google.com/view/otter-math/home>
