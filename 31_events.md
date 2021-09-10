@@ -33,6 +33,9 @@ permalink: "events.html"
 - The Online Operator Theory and Related Topics webpage (2TART)
 	- Ongoing talks, currently the first Tuesday of each month at 11AM Eastern (US)
 
+- Fields Institute
+ - Focus Program on Analytic Function Spaces and their Applications[6]
+
 
 
 
@@ -41,3 +44,4 @@ permalink: "events.html"
 [3]:<https://people.clas.ufl.edu/pascoej/seam-2021>
 [4]:<http://www.math.utk.edu/~richter/seam/>
 [5]:<https://www.math.wustl.edu/~ylsong/GPOTS.php>
+[6]:http://www.fields.utoronto.ca/activities/21-22/function	
