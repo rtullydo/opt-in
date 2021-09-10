@@ -22,7 +22,17 @@ permalink: "events.html"
 	- 2022 University of Florida 
 	- 2021 [Zoom][3]
 
-- G
+- Great Plains Operator Theory Symposium (GPOTS)
+	- 2021 Washington University (virtual) [5]
+
+- Joint Mathematical Meetings (JMM)
+	- 2022 Seattle
+		- ILAS Special Session on the Interplay of Matrix Analysis and Operator Theory
+		- AMS Special Session on Recent Progress in Function Theory and Operator Theory
+
+- The Online Operator Theory and Related Topics webpage (2TART)
+	- Ongoing talks, currently the first Tuesday of each month at 11AM Eastern (US)
+
 
 
 
@@ -30,3 +40,4 @@ permalink: "events.html"
 [2]:<https://www.chapman.edu/scst/conferences-and-events/iwota-2021/index.aspx>
 [3]:<https://people.clas.ufl.edu/pascoej/seam-2021>
 [4]:<http://www.math.utk.edu/~richter/seam/>
+[5]:<https://www.math.wustl.edu/~ylsong/GPOTS.php>
