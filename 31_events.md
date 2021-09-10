@@ -23,7 +23,7 @@ permalink: "events.html"
 	- 2021 [Zoom][3]
 
 - Great Plains Operator Theory Symposium (GPOTS)
-	- 2021 Washington University (virtual) [5]
+	- [2021 Washington University (virtual)][5]
 
 - Joint Mathematical Meetings (JMM)
 	- 2022 Seattle
@@ -37,7 +37,6 @@ permalink: "events.html"
  	- [Focus Program on Analytic Function Spaces and their Applications][6]
 
 - [Operator Theory Talks for Early Researchers (OTTER)][7]
-	-
 
 
 
