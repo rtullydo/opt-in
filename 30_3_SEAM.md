@@ -6,7 +6,7 @@ permalink: "seam_2022.html"
 
 # SEAM 38
 
-## 38th Southeastern Analysis Meeting
+## 38th Southeastern Analysis Meeting, University of Florida
 
 ### 5-7 March, 2022
 
