@@ -16,6 +16,6 @@ The Southeastern Analysis Meeting (SEAM) promotes interaction between researcher
 
 SEAM 38 will take place on the University of Florida campus from the morning of March 5 through the afternoon of March 6 or possibly mid-day on Monday March 7, 2022.
 
-More information about registration, travel, and funding is located at the main [SEAM 38 page][1]
+More information about registration, travel, and funding is located at the main [SEAM 38 page][1].
 
 [1]:<https://people.clas.ufl.edu/sam/seam-38/>
